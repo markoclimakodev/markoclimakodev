@@ -1,8 +1,8 @@
-<h2  align="left">Hi there! 👋</h2>
+<h2  align="left">Hi there!</h2>
 <p  align="left">I'm Marcos, a passionate frontend developer with expertise in React, Next.js, TypeScript, and Tailwind CSS.</p>
 
 <h2 align="left">
-Contact
+Contact 💬
 </h2>
 <div align="left">
   <a href="https://www.linkedin.com/in/markoclimako/"> 
@@ -15,7 +15,7 @@ Contact
 
   ### 
   
-<h2>Status</h2>
+<h2>Status ★</h2>
   
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=markoclimakodev&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -24,7 +24,7 @@ Contact
 
 ###
 
-<h2  align="left">Techs 🧑🏻‍💻</h2>
+<h2  align="left">Techs ❤️</h2>
 
 <div align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="32" alt="react"  />
@@ -42,7 +42,7 @@ Contact
 
 ###
 
-<h2  align="left">Songs</h2>
+<h2  align="left">Songs 🔊</h2>
 
 <div  align="left">
   
