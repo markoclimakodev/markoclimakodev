@@ -9,7 +9,7 @@
 ###
 <div  align="center">
   
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=sji37n12ig0lc738odbhq0jod&count=3)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=sji37n12ig0lc738odbhq0jod&count=3&unique=true)
 
 </div>
 
