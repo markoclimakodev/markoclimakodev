@@ -1,4 +1,4 @@
-<h2  align="left">Hi! Olá! สวัสดี!</h2>
+<h2  align="left">Hi! Olá! สวัสดี! 🤗</h2>
 <p  align="left">I'm a passionate frontend developer with experience in React, Next.js, TypeScript, and Tailwind CSS.</p>
 
 <h2 align="left">
