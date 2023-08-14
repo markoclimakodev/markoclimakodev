@@ -37,6 +37,9 @@ Contact @
 <h2>Status ★</h2>
 
 <div align="left">
+    
+[![GitHub Streak](https://streak-stats.demolab.com/?user=markoclimakodev)](https://git.io/streak-stats)
+    
  <img src="https://myreadme.vercel.app/api/embed/markoclimakodev?panels=userstatistics,toprepositories,commitgraph" width="100%" alt="stats graph"  /> 
 </div>
 
