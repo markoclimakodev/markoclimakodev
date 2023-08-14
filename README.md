@@ -20,7 +20,6 @@ const DEV: DEVType = {
 };
 
 ```
-
 <h2 align="left">
 Contact @
 </h2>
