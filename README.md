@@ -40,6 +40,6 @@ Contact @
     
 [![GitHub Streak](https://streak-stats.demolab.com/?user=markoclimakodev)](https://git.io/streak-stats)
     
- <img src="https://myreadme.vercel.app/api/embed/markoclimakodev?panels=userstatistics,toprepositories,commitgraph" width="100%" alt="stats graph"  /> 
+ <img src="https://myreadme.vercel.app/api/embed/markoclimakodev?panels=userstatistics,toprepositories,commitgraph,toplanguages" width="100%" alt="stats graph"  /> 
 </div>
 
