@@ -22,7 +22,7 @@ const DEV: DEVType = {
 ```
 
 <h2 align="left">
-Contact 💬
+Contact @
 </h2>
 <div align="left">
   <a href="https://www.linkedin.com/in/markoclimako/"> 
