@@ -37,6 +37,6 @@ Contact @
 <h2>Status ★</h2>
 
 <div align="left">
- <img src="https://myreadme.vercel.app/api/embed/markoclimakodev?panels=userstatistics,toprepositories,commitgraph" width="100%" alt="stats graph"  /> 
+ <img src="https://myreadme.vercel.app/api/embed/markoclimakodev?panels=userstatistics,toprepositories,commitgraph,toplanguages" width="100%" alt="stats graph"  /> 
 </div>
 
