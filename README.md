@@ -8,7 +8,8 @@ const DEV: DEVType = {
     technologies: {
         frontEnd: {
             languages: ["JavaScript", "TypeScript"],
-            frameworks: ["React", "Next.js"],
+            libraries: ["React"],
+            frameworks: ["Next.js"],
             stateManagement: ["Redux"],
             css: ["Tailwind CSS", "Styled Components"],
             design: ["Figma"],
