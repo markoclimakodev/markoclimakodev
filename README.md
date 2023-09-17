@@ -33,5 +33,14 @@ Contact @
   </a>
 </div>
 
-<img src="https://myreadme.vercel.app/api/embed/markoclimakodev?panels=userstatistics,toprepositories,commitgraph,toplanguages" width="100%" alt="stats graph" />
+
+<h2 align="left">
+Status 
+</h2>
+<div style="display: flex;">
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=github&preferLogin=false"> 
+    <img alt="markoclimakodev's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/markoclimakodev?cardType=level-alternate&theme=github&preferLogin=false"/> 
+  </a>
+  <img src="https://myreadme.vercel.app/api/embed/markoclimakodev?panels=toplanguages" width="16%" alt="stats graph" />
+</div>
 
