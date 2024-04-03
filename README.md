@@ -10,7 +10,7 @@ const DEV = {
             languages: ["JavaScript", "TypeScript"],
             libraries: ["React"],
             frameworks: ["Next.js"],
-            stateManagement: ["Redux"],
+            stateManagement: ["Redux", "Recoil"],
             css: ["Tailwind CSS", "Styled Components"],
             design: ["Figma"],
         },
