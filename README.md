@@ -28,8 +28,7 @@ const DEV = {
         },
     },
     location: "Florianópolis, Santa Catarina, Brazil",
-    education: "University of the People",
-    contactInfo: "LinkedIn: Marcos Junior Climaco",
+    education: "University of the People"
 };
 
 
