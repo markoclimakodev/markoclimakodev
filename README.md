@@ -1,10 +1,10 @@
 ## Hi! Olá! สวัสดี! 🤗
 
 ```typescript
-const DEV: DEVType = {
-    name: "Marcos Climaco",
+const DEV = {
+    name: "Marcos Junior Climaco",
     pronouns: "He" | "Him",
-    about: "I'm a passionate frontend developer with experience in React, Next.js, TypeScript, and Tailwind CSS.",
+    about: "I'm a passionate full stack JavaScript developer with experience in React, Next.js, Node.js, TypeScript, SQL, and various related technologies.",
     technologies: {
         frontEnd: {
             languages: ["JavaScript", "TypeScript"],
@@ -14,11 +14,24 @@ const DEV: DEVType = {
             css: ["Tailwind CSS", "Styled Components"],
             design: ["Figma"],
         },
+        backEnd: {
+            languages: ["JavaScript", "TypeScript"],
+             frameworks: ["Nest.js"],
+            databases: ["Postgres,  SQL"],
+            ORMs: ["Sequelize", "Prisma"],
+        },
         testing: {
             libraries: ["Jest", "Testing Library"],
         },
+        devOps: {
+            tools: ["Docker"],
+        },
     },
+    location: "Florianópolis, Santa Catarina, Brazil",
+    education: "University of the People",
+    contactInfo: "LinkedIn: Marcos Junior Climaco",
 };
+
 
 ```
 <h2 align="left">
