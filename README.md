@@ -1,4 +1,4 @@
-👋🏻 Hi, I'm Marcos! I am a Full Stack JavaScript developer with experience in React, Next.js, Node.js, Nest.js, TypeScript, SQL, and various other technologies. I am passionate about learning and continuously improving my skills.
+👋🏻 Hi, I'm Marcos! I'm a Full Stack JavaScript developer with experience in React, Next.js, Node.js, Nest.js, TypeScript, SQL, and various other technologies. I'm passionate about learning and continuously improving my skills.
 
 - 🌍 Location: Florianópolis, Santa Catarina, Brazil
 - 🎓 Education: Bachelor's Degree in Computer Science at University of the People
