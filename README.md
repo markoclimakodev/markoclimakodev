@@ -1,58 +1,33 @@
-## Hi! Olá! สวัสดี! 🤗
+# Marcos Junior Climaco
 
-```typescript
-const DEV = {
-    name: "Marcos Junior Climaco",
-    pronouns: "He" | "Him",
-    about: "I'm a passionate full stack JavaScript developer with experience in React, Next.js, Node.js, TypeScript, SQL, and various related technologies.",
-    technologies: {
-        frontEnd: {
-            languages: ["JavaScript", "TypeScript"],
-            libraries: ["React"],
-            frameworks: ["Next.js"],
-            stateManagement: ["Redux", "Recoil"],
-            css: ["Tailwind CSS", "Styled Components"],
-            design: ["Figma"],
-        },
-        backEnd: {
-            languages: ["JavaScript", "TypeScript"],
-             frameworks: ["Nest.js"],
-            databases: ["Postgres,  SQL"],
-            ORMs: ["Sequelize", "Prisma"],
-        },
-        testing: {
-            libraries: ["Jest", "Testing Library"],
-        },
-        devOps: {
-            tools: ["Docker"],
-        },
-    },
-    location: "Florianópolis, Santa Catarina, Brazil",
-    education: "University of the People"
-};
+👋 Hi, I'm Marcos! I am a Full Stack JavaScript developer with experience in React, Next.js, Node.js, Nest.js, TypeScript, SQL, and various other technologies. I am passionate about learning and continuously improving my skills.
 
+- 🌍 Location: Florianópolis, Santa Catarina, Brazil
+- 🎓 Education: Bachelor's Degree in Computer Science at University of the People
+- 🎓 Education: Full-Stack Web Development Course at Trybe
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/markoclimako/) | [Email](mailto:mkclimako@gmail.com)
 
-```
-<h2 align="left">
-Contact @
-</h2>
-<div align="left">
-  <a href="https://www.linkedin.com/in/markoclimako/"> 
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32"/>
-  </a>
-  <a href="mailto:mkclimako@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32"/>
-  </a>
-</div>
+## Currently Studying
+I am currently focused on learning more about Streams in JavaScript.
 
+## Technologies & Tools
+- **Languages:** JavaScript, TypeScript, Python, Java
+- **Libraries:** React, Redux, Recoil, Context API, Jest, Testing Library
+- **Frameworks:** Next.js, Nest.js
+- **CSS:** Tailwind CSS, Styled Components
+- **Design:** Figma
+- **Databases:** PostgreSQL, MySQL
+- **ORMs:** Sequelize, Prisma
+- **DevOps:** Docker
 
-<h2 align="left">
-Status 
-</h2>
-<div style="display: flex;">
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=github&preferLogin=false"> 
-    <img alt="markoclimakodev's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/markoclimakodev?cardType=level-alternate&theme=github&preferLogin=false"/> 
-  </a>
-  <img src="https://myreadme.vercel.app/api/embed/markoclimakodev?panels=toplanguages" width="16%" alt="stats graph" />
-</div>
+## Soft Skills
+- Problem-solving
+- Team collaboration
+- Time management
+- Adaptability
+- Creativity
+
+## Languages
+- Portuguese (Native)
+- English (C1 Advanced) - [Certificate](https://cert.efset.org/LaRWtF)
 
