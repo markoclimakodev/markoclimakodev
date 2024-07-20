@@ -4,7 +4,7 @@
 
 - 🌍 Location: Florianópolis, Santa Catarina, Brazil
 - 🎓 Education: Bachelor's Degree in Computer Science at University of the People
-- 🎓 Education: Full-Stack Web Development Course at Trybe
+- 🎓 Education: Full-Stack Web Development Course at Trybe - [Certificate](https://www.credential.net/3c2cf1c6-2afc-4b2d-bd9f-12c966e186fe)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/markoclimako/) | [Email](mailto:mkclimako@gmail.com)
 
 ## Currently Studying
